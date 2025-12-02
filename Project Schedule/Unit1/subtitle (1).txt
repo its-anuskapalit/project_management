@@ -1,0 +1,76 @@
+Now that we have defined our project activities we need to determine in what order these activities
+need to be done. Some activities depend on others to
+happen before they can even begin these are called dependencies. There is a tool and project management
+called network diagramming or precedence diagramming that helps us
+determine the most efficient sequence for our project activities. When sequencing project activities, project managers use precedent diagrams
+to determine the relationships between activities in order to
+develop the formal project schedule. Now we have discussed activity
+dependencies before and it's where one activity is
+dependent upon another activity. There are four types of dependencies for
+activities. The first is called a mandatory
+dependency and this is where one activity must happen before another and
+there's just no way around it. The second activity is completely
+dependent upon the first. An example of this is if you are wanting
+to paint a wall of a new home, that wall must first be built. So in order to paint it, it must be built,
+it must be there the next is called discretionary dependencies and
+this is where an activity should happen before another, but
+it's not absolutely necessary. So an example of that would be if we
+wanted to paint that same wall before we moved in furniture into the house, we we
+should paint the wall before we move in furniture but
+it doesn't have to happen that way. So we would call that
+the discretionary dependency. Another dependency is called
+an external dependency and this comes from outside your project. So in order to paint the wall, the paint supplier must deliver
+the paint to the house. So we're depending on
+an external supplier, some from from outside the project and
+then the last is called an internal dependency and
+this comes from within your project. So an example might be that
+we're using our own painters to paint the house and
+those painters must finish painting the kitchen before they
+start painting the bedroom. So in order to complete the bedroom
+painting job, we need the labor or the resources from the kitchen to complete
+in order to start painting the bedroom. Now let's take a look at something
+called precedence diagramming and this is used to help the project manager
+further examine dependencies and make a determination of
+the project's critical path. The critical path is determined by
+building a diagram to determine the earliest possible completion date for
+the project. So again, the critical path is
+the earliest possible completion date. In order to do this,
+we need to understand diagramming. So let's start first with
+a precedents diagram. Here's a square and
+this square is it's it's called a node and this node represents an activity
+that needs to happen for our project and
+let's call that activity A and here's another node and
+let's call that one activity B. Now let's say that we need to complete
+activity A in order to start activity B. So activity B is completely dependent
+upon activities A's completion. The arrow represents the dependency, we call this finish to start dependency. Now let's look at a simplified example,
+so assume we're planting a garden and we want to plant tomatoes,
+peppers, herbs, etcetera. You get it, let's say activity A. Is preparing the dirt for
+planting, then ACTIVITY B. Is digging the hole to plant the tomato. Now we would have to make
+sure that ACTIVITY A. Is completed before ACTIVITY B. Can start. Of course we need dirt in the garden
+before we can begin to plant anything. Now let's take a look at finish to finish
+and this is a different type of dependency but it's where both activities
+should be finished at the same time. An example would be if we were to
+pick tomatoes from our garden to make a fresh salad. The tomatoes need to be harvested or
+finished growing before we can serve and assemble the salad. We call that finish to finish next. Let's look at start to start and
+this is where activities A must start before activity B, but
+these are usually done simultaneously. An example would be,
+let's say your instead of a gardener, you're a farmer and
+in order to plant your seeds for crops. You need to plow the land and
+we know that we can do the plowing and the planting at the same time,
+but first the plowing starts, then the seeds are dropped into
+the ground and then planted. So these must be done in order but
+you can do them at the same time. That's an example of a start to start and
+then we have start to finish and that's where ACTIVITY A must start
+before ACTIVITY B can finish. It's very rare that we use
+a start to finish, but I just at least want to introduce
+that dependency to you. Now, here's an example of a simplified
+precedents diagram on the left, we have the project start,
+we start with activity A. And in order to move on to Activities B
+and C, we must first complete Activity A. Activities B and C can be done
+in parallel and simultaneously, but ACTIVITY B must be complete in order
+to start ACTIVITY D, activity C and D. Can both finish at the same time,
+which would be the end of the project. So that's a of an overall simple example
+of what a precedence diagram looks like, as you can see many activities in our
+project can depend upon one another. The precedents diagram allows us to
+visually see these dependencies. It is an important step when it comes to
+developing the actual project schedule

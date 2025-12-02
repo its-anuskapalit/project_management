@@ -1,0 +1,459 @@
+WEBVTT
+
+1
+00:00:09.710 --> 00:00:12.390
+In this video, we will discuss
+
+2
+00:00:12.390 --> 00:00:14.865
+two project management
+methodologies.
+
+3
+00:00:14.865 --> 00:00:17.550
+The first is the
+predictive model.
+
+4
+00:00:17.550 --> 00:00:21.075
+This is also called waterfall
+in software development.
+
+5
+00:00:21.075 --> 00:00:23.685
+The predictive model follows
+
+6
+00:00:23.685 --> 00:00:26.925
+a more linear path for
+project scheduling.
+
+7
+00:00:26.925 --> 00:00:30.330
+We'll compare that with
+Agile project management,
+
+8
+00:00:30.330 --> 00:00:34.605
+which uses more of an iterative
+process to place value
+
+9
+00:00:34.605 --> 00:00:39.965
+on providing the customer
+deliverables more frequently.
+
+10
+00:00:39.965 --> 00:00:43.845
+There are different lifecycles
+in project management.
+
+11
+00:00:43.845 --> 00:00:45.230
+First, let's take a look at
+
+12
+00:00:45.230 --> 00:00:47.255
+the predictive
+project management
+
+13
+00:00:47.255 --> 00:00:51.560
+or traditional project
+management style.
+
+14
+00:00:51.560 --> 00:00:55.370
+You will use this project
+methodology where
+
+15
+00:00:55.370 --> 00:00:59.645
+your milestones are more
+defined and more sequenced.
+
+16
+00:00:59.645 --> 00:01:02.510
+This methodology also doesn't
+
+17
+00:01:02.510 --> 00:01:04.595
+really respond well to changes.
+
+18
+00:01:04.595 --> 00:01:06.980
+It isn't as Agile, if you will.
+
+19
+00:01:06.980 --> 00:01:11.045
+It follows the stages
+of initiating,
+
+20
+00:01:11.045 --> 00:01:13.565
+planning, executing,
+
+21
+00:01:13.565 --> 00:01:16.745
+controlling, and
+monitoring, and closing.
+
+22
+00:01:16.745 --> 00:01:18.560
+In each of these stages have
+
+23
+00:01:18.560 --> 00:01:21.440
+well-defined
+processes and tools.
+
+24
+00:01:21.440 --> 00:01:24.950
+When it comes to managing
+the project schedule,
+
+25
+00:01:24.950 --> 00:01:29.465
+it may follow a stage gate
+process more on this later.
+
+26
+00:01:29.465 --> 00:01:34.280
+Then we have a project
+management called Agile.
+
+27
+00:01:34.280 --> 00:01:38.660
+An Agile project
+management is one that
+
+28
+00:01:38.660 --> 00:01:43.700
+prioritizes creating value
+through quicker releases.
+
+29
+00:01:43.700 --> 00:01:45.980
+While traditional
+project management
+
+30
+00:01:45.980 --> 00:01:47.815
+doesn't respond well to change,
+
+31
+00:01:47.815 --> 00:01:50.270
+Agile welcomes changes to
+
+32
+00:01:50.270 --> 00:01:53.610
+the project and to
+the project schedule.
+
+33
+00:01:55.040 --> 00:01:58.445
+In this slide, we have
+
+34
+00:01:58.445 --> 00:02:00.140
+a graphical example of
+
+35
+00:02:00.140 --> 00:02:02.150
+a predictive methodology in
+
+36
+00:02:02.150 --> 00:02:04.520
+terms of the project timeline.
+
+37
+00:02:04.520 --> 00:02:06.920
+In the traditional schedule,
+
+38
+00:02:06.920 --> 00:02:08.584
+the approach is linear.
+
+39
+00:02:08.584 --> 00:02:10.790
+All phases of the project will
+
+40
+00:02:10.790 --> 00:02:13.805
+occur in a predicted sequence.
+
+41
+00:02:13.805 --> 00:02:15.470
+The project team must first
+
+42
+00:02:15.470 --> 00:02:17.390
+complete planning
+before moving on to
+
+43
+00:02:17.390 --> 00:02:19.730
+execution and then verification
+
+44
+00:02:19.730 --> 00:02:21.655
+and then delivery
+to the customer.
+
+45
+00:02:21.655 --> 00:02:25.334
+The project manager plans
+the schedule upfront.
+
+46
+00:02:25.334 --> 00:02:27.500
+They try to reduce the risk of
+
+47
+00:02:27.500 --> 00:02:30.980
+any schedule changes or
+scope changes because
+
+48
+00:02:30.980 --> 00:02:32.945
+the predictive model
+doesn't really
+
+49
+00:02:32.945 --> 00:02:37.570
+allow many changes in the model.
+
+50
+00:02:37.570 --> 00:02:39.605
+Since all the planning is
+done in the beginning,
+
+51
+00:02:39.605 --> 00:02:44.410
+there isn't any changes due
+to the scope or the budget.
+
+52
+00:02:44.410 --> 00:02:45.950
+If there are those changes,
+
+53
+00:02:45.950 --> 00:02:48.930
+they'll really throw
+off your schedule.
+
+54
+00:02:49.840 --> 00:02:53.525
+Now let's compare this to
+the Agile methodology.
+
+55
+00:02:53.525 --> 00:02:56.375
+The Agile method invite changes.
+
+56
+00:02:56.375 --> 00:03:00.850
+It works on an editor
+iterative process.
+
+57
+00:03:00.850 --> 00:03:04.895
+The Agile approach encourages
+more frequent delivery.
+
+58
+00:03:04.895 --> 00:03:09.380
+It really focuses on creating
+value early and often.
+
+59
+00:03:09.380 --> 00:03:11.480
+This means that teams work more
+
+60
+00:03:11.480 --> 00:03:12.980
+collaboratively to plan
+
+61
+00:03:12.980 --> 00:03:14.975
+smaller iterations
+of the project,
+
+62
+00:03:14.975 --> 00:03:16.775
+execute on those iterations,
+
+63
+00:03:16.775 --> 00:03:18.335
+on each smaller segment,
+
+64
+00:03:18.335 --> 00:03:20.420
+verify them, and
+then deliver them to
+
+65
+00:03:20.420 --> 00:03:23.150
+the customer again
+to create value.
+
+66
+00:03:23.150 --> 00:03:26.780
+Now, this isn't to say
+that Agile is better than
+
+67
+00:03:26.780 --> 00:03:30.995
+predictive in every situation
+or for every project.
+
+68
+00:03:30.995 --> 00:03:33.260
+Many projects lend themselves to
+
+69
+00:03:33.260 --> 00:03:36.320
+a traditional project
+methodology very well.
+
+70
+00:03:36.320 --> 00:03:40.370
+Especially when the scope
+is well-defined or if
+
+71
+00:03:40.370 --> 00:03:45.480
+the project is similar to a
+previous successful project.
+
+72
+00:03:46.240 --> 00:03:51.170
+In this class, I will discuss
+project scheduling from
+
+73
+00:03:51.170 --> 00:03:54.215
+the perspective of a
+traditional project
+
+74
+00:03:54.215 --> 00:03:56.180
+or a waterfall project.
+
+75
+00:03:56.180 --> 00:03:58.189
+But I did at least
+want to introduce
+
+76
+00:03:58.189 --> 00:04:00.320
+you to some of the
+basic terminology of
+
+77
+00:04:00.320 --> 00:04:05.730
+project's schedules in terms
+of Agile project management.
+
+78
+00:04:05.730 --> 00:04:08.855
+The Agile project manager
+uses short cycles
+
+79
+00:04:08.855 --> 00:04:11.540
+of planning and then jumps
+right into execution.
+
+80
+00:04:11.540 --> 00:04:14.930
+This is all done in
+something called sprints.
+
+81
+00:04:14.930 --> 00:04:18.920
+The project manager in Agile
+is called the scrum master.
+
+82
+00:04:18.920 --> 00:04:22.205
+Project scheduling
+and monitoring is
+
+83
+00:04:22.205 --> 00:04:25.580
+often done using a
+system called Kanban.
+
+84
+00:04:25.580 --> 00:04:28.520
+What Kanban is it's
+essentially a work
+
+85
+00:04:28.520 --> 00:04:31.980
+in progress for the Agile team.
+
+86
+00:04:31.980 --> 00:04:34.460
+As parts of the
+project progress,
+
+87
+00:04:34.460 --> 00:04:36.590
+they move across the
+Kanban board from
+
+88
+00:04:36.590 --> 00:04:38.944
+left to right until they
+are tested, validated,
+
+89
+00:04:38.944 --> 00:04:41.510
+and delivered to the end-user
+
+90
+00:04:41.510 --> 00:04:43.985
+or to the customer
+or to the client.
+
+91
+00:04:43.985 --> 00:04:47.495
+Now, don't worry if this
+all seems foreign to you,
+
+92
+00:04:47.495 --> 00:04:50.330
+especially if you've just
+completed my first course.
+
+93
+00:04:50.330 --> 00:04:53.480
+I do have another course called
+Agile project management,
+
+94
+00:04:53.480 --> 00:04:57.335
+where I will explain the
+entire process in more detail.
+
+95
+00:04:57.335 --> 00:05:00.590
+I just wanted to
+introduce the concept of
+
+96
+00:05:00.590 --> 00:05:02.660
+the sprint sense
+project scheduling
+
+97
+00:05:02.660 --> 00:05:05.160
+is vastly different
+between the methodologies.
+
+98
+00:05:05.160 --> 00:05:09.030
+Now let's move on to
+predictive models.
